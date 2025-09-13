@@ -58,10 +58,5 @@
 
 
 
----
-
-<div align="center">
   
 **享受 Time Launcher 2 带来的体验！**
-
-</div>
