@@ -1,4 +1,4 @@
-# Time Launcher 2
+# Time Launcher
 
 一个为手表而生 Android 启动器应用，提供直观的时间显示、便捷的应用访问和智能控制中心。
 
@@ -59,4 +59,4 @@
 
 
   
-**享受 Time Launcher 2 带来的体验！**
+**享受 Time Launcher  带来的体验！**
